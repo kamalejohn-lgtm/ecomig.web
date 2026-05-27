@@ -1,0 +1,11 @@
+{
+  "name": "ECOMIG Portal",
+  "description": "Official regional portal for ECOMIG, providing mission updates, tactical leadership data, and secure administrative command tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
